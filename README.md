@@ -17,18 +17,28 @@ Leia os valores dessa matriz, depois informe qual é o maior e o menor elemento.
 3. Notas da turma - Fazer um programa para ler as notas de 4 provas para 5 alunos de uma turma e calcular a média do aluno e média da turma
 
 4. Centro meterológico - Um centro meteorológico distribuiu dispositivos para registrar índices pluviométricos em um conjunto de 7 cidades de uma região (identificadas por códigos numéricos de 1 a 7) durante 6 meses(Jan a Jun), onde, para cada mês foi registrado um valor real que corresponde ao índice pluviométrico total do mês.
+
 Escreva um programa que leia os 6 índices pluviométricos de cada uma das sete cidades e imprima:
+
 a) O índice de pluviosidade médio mensal de cada cidade;
+
 b) O índice de pluviosidade média de cada mês na região.
+
 
 5. Quais serão os valores de x, y e p ao final do trecho de código abaixo?
 
 int x, y, *p;y = 0;
+
 p = &y;
+
 x = *p;
+
 x = 4;
+
 (*p)++;
+
 --x;
+
 (*p) += x;
 
 Justifique sua resposta:
