@@ -5,7 +5,7 @@
 - A questão 5 não exigia código, então sua resolução foi feita em um arquivo txt;
 - As questões 6 a 9 foram feitas em um único código fonte e a parte respectiva a cada questão foi indicada por meio de comentários.
 
-============================================================================
+====================================================
 
 Questões
 
