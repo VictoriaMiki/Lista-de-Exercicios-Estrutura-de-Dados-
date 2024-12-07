@@ -33,20 +33,20 @@ Justifique sua resposta:
 
 6. Fazer um programa em Linguagem C que criem uma estrutura de dados voo(struct voo) para a empresa VOEBEM, que servirá para implementar funções para controle da lista
 dos voos. A estrutura voo deve ser implementada de forma dinâmica e deve conter os seguintes dados:
- número do voo - inteiro;
- data do voo - inteiro: (1 - seg, 2 - ter, 3 - qua, 4- qui, 5 - sex, 6 - sab, 7 - dom, 8 - diario);
- horário do voo - hora inteiro, min inteiro;
- aeroporto de Saída - inteiro - id do aeroporto;
- aeroporto de Chegada - inteiro - id do aeroporto;
- rota - inteiro id;
- tempo estimado de voo - float;
- passageiros a bordo - inteiro;
+- número do voo - inteiro;
+- data do voo - inteiro: (1 - seg, 2 - ter, 3 - qua, 4- qui, 5 - sex, 6 - sab, 7 - dom, 8 - diario);
+- horário do voo - hora inteiro, min inteiro;
+- aeroporto de Saída - inteiro - id do aeroporto;
+- aeroporto de Chegada - inteiro - id do aeroporto;
+- rota - inteiro id;
+- tempo estimado de voo - float;
+- passageiros a bordo - inteiro;
  
-7. Implementar a função cadastrarVoo() que deve permitir o cadastro de um novo voo;
+8. Implementar a função cadastrarVoo() que deve permitir o cadastro de um novo voo;
 
-8. Implementar a função consultaVoo() que deve permitir obter as informações do voo com base na digitação do número do voo;
+9. Implementar a função consultaVoo() que deve permitir obter as informações do voo com base na digitação do número do voo;
 
-9. Implementar a função removeVoo() que permita a exclusão de um determinado voo.
+10. Implementar a função removeVoo() que permita a exclusão de um determinado voo.
 
-10. Faça uma rotina recursiva para calcular a somatória de todos os número de 1 a N (N será lido do teclado).
+11. Faça uma rotina recursiva para calcular a somatória de todos os número de 1 a N (N será lido do teclado).
 Observação: se N é igual a 5 por exemplo, A somatória dos números será igual a 15, ou seja, 1+2+3+4+5 = 15 
