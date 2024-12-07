@@ -22,6 +22,7 @@ a) O índice de pluviosidade médio mensal de cada cidade;
 b) O índice de pluviosidade média de cada mês na região.
 
 5. Quais serão os valores de x, y e p ao final do trecho de código abaixo?
+
 int x, y, *p;y = 0;
 p = &y;
 x = *p;
@@ -32,7 +33,7 @@ x = 4;
 
 Justifique sua resposta:
 
-7. Fazer um programa em Linguagem C que criem uma estrutura de dados voo(struct voo) para a empresa VOEBEM, que servirá para implementar funções para controle da lista
+6. Fazer um programa em Linguagem C que criem uma estrutura de dados voo(struct voo) para a empresa VOEBEM, que servirá para implementar funções para controle da lista
 dos voos. A estrutura voo deve ser implementada de forma dinâmica e deve conter os seguintes dados:
 - número do voo - inteiro;
 - data do voo - inteiro: (1 - seg, 2 - ter, 3 - qua, 4- qui, 5 - sex, 6 - sab, 7 - dom, 8 - diario);
