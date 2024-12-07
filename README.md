@@ -9,12 +9,12 @@
 
 Questões
 
-1. Suponha uma matriz de 3 linhas por 3 colunas do tipo inteiro.
+1) Suponha uma matriz de 3 linhas por 3 colunas do tipo inteiro.
 Leia os valores dessa matriz, depois informe qual é o maior e o menor elemento.
 
-2. Faça um jogo da velha
+2) Faça um jogo da velha
 
-3. Notas da turma - Fazer um programa para ler as notas de 4 provas para 5 alunos de uma turma e calcular a média do aluno e média da turma
+3) Notas da turma - Fazer um programa para ler as notas de 4 provas para 5 alunos de uma turma e calcular a média do aluno e média da turma
 
 4. Centro meterológico - Um centro meteorológico distribuiu dispositivos para registrar índices pluviométricos em um conjunto de 7 cidades de uma região (identificadas por códigos numéricos de 1 a 7) durante 6 meses(Jan a Jun), onde, para cada mês foi registrado um valor real que corresponde ao índice pluviométrico total do mês.
 
