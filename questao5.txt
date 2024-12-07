@@ -1,0 +1,17 @@
+5. Quais serão os valores de x, y e p ao final do trecho de código abaixo?
+
+int x, y, *p; y = 0;	// x = -; y = 0; p = -; *p = -
+p = &y; 		// x = -; y = 0; p = endereço de y; *p = 0
+x = *p; 		// x = 0; y = 0; p = endereço de y; *p = 0
+x = 4; 			// x = 4; y = 0; p = endereço de y; *p = 0
+(*p)++; 		// x = 4; y = 1; p = endereço de y; *p = 1
+--x; 			// x = 3; y = 1; p = endereço de y; *p = 1
+(*p) += x;		// x = 3; y = 4; p = endereço de y; *p = 4
+
+Justifique sua resposta:
+
+As mudanças dos valores de cada variável em cada etapa foram apresentadas nos respectivos comentários. Os valores finais são:
+x = 3
+y = 4
+p = endereço de y
+*p = 4
